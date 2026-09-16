@@ -9,20 +9,28 @@ A ideia é praticar testes manuais em um formulário um pouco mais completo.
 Practice Automation - Form Fields:
 https://practice-automation.com/form-fields/
 
-## O que vou testar
+## O que foi testado
 
-- preencher e enviar o formulário;
-- tentar enviar sem o nome;
-- marcar uma opção de bebida;
-- escolher uma cor;
-- selecionar uma opção no campo de automação.
+- preenchimento e envio do formulário;
+- envio sem o campo nome;
+- seleção de bebida favorita;
+- seleção de cor;
+- seleção de uma opção no campo de automação.
+
+## Resultado
+
+Foram executados 5 casos de teste.
+
+- 5 testes passaram;
+- 0 testes falharam;
+- nenhum bug foi encontrado.
 
 ## Arquivos
 
-- `casos-de-teste.md` - testes que vou executar;
+- `casos-de-teste.md` - testes executados e resultados;
 - `bugs.md` - bugs encontrados;
 - `evidencias/` - imagens dos testes.
 
 ## Status
 
-Testes ainda não executados.
+Projeto concluído.
