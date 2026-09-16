@@ -11,7 +11,9 @@
 
 **Esperado:** o formulário deve ser enviado.
 
-**Status:** `NÃO EXECUTADO`
+**Resultado:** formulário enviado e mensagem de confirmação exibida.
+
+**Status:** `PASS`
 
 ---
 
@@ -24,7 +26,9 @@
 
 **Esperado:** o formulário não deve ser enviado sem o nome.
 
-**Status:** `NÃO EXECUTADO`
+**Resultado:** o campo Name foi indicado como obrigatório e o envio foi bloqueado.
+
+**Status:** `PASS`
 
 ---
 
@@ -35,7 +39,9 @@
 
 **Esperado:** a opção Coffee deve ficar marcada.
 
-**Status:** `NÃO EXECUTADO`
+**Resultado:** a opção Coffee ficou marcada.
+
+**Status:** `PASS`
 
 ---
 
@@ -46,7 +52,9 @@
 
 **Esperado:** a opção Blue deve ficar selecionada.
 
-**Status:** `NÃO EXECUTADO`
+**Resultado:** a opção Blue ficou selecionada.
+
+**Status:** `PASS`
 
 ---
 
@@ -58,4 +66,6 @@
 
 **Esperado:** a opção escolhida deve aparecer selecionada.
 
-**Status:** `NÃO EXECUTADO`
+**Resultado:** a opção escolhida ficou selecionada corretamente.
+
+**Status:** `PASS`
